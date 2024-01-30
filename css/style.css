@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    height: auto;
+    width: 270px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center; 
+    margin: auto;
+   
+   
+}
+.btn{
+    height: auto;
+    width: 50px;
+    
+}
+.end{
+    text-align: end;
+}
+.center{
+    justify-content: center;
+}
